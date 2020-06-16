@@ -1,0 +1,12 @@
+I:\repos\Text.NET\Text.NET\obj\Debug\Notepad.NET.csprojAssemblyReference.cache
+I:\repos\Text.NET\Text.NET\obj\Debug\Text.NET.AboutForm.resources
+I:\repos\Text.NET\Text.NET\obj\Debug\Text.NET.MainForm.resources
+I:\repos\Text.NET\Text.NET\obj\Debug\Text.NET.Properties.Resources.resources
+I:\repos\Text.NET\Text.NET\obj\Debug\Text.NET.SettingsForm.resources
+I:\repos\Text.NET\Text.NET\obj\Debug\Notepad.NET.csproj.GenerateResource.cache
+I:\repos\Text.NET\Text.NET\obj\Debug\Notepad.NET.csproj.CoreCompileInputs.cache
+I:\repos\Text.NET\Text.NET\bin\Debug\Notepad.NET.exe.config
+I:\repos\Text.NET\Text.NET\bin\Debug\Notepad.NET.exe
+I:\repos\Text.NET\Text.NET\bin\Debug\Notepad.NET.pdb
+I:\repos\Text.NET\Text.NET\obj\Debug\Notepad.NET.exe
+I:\repos\Text.NET\Text.NET\obj\Debug\Notepad.NET.pdb
